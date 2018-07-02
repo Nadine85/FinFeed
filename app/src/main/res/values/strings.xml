@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FinFeeds</string>
+    <string name="noInternetConnection">no internet connection. /nPlease check your network.</string>
+    <string name="noFinFeeds">no news found.</string>
+</resources>
